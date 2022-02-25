@@ -2,7 +2,7 @@
 👀🌱💞️ I’m currently learning and looking to collaborate on any React, Nodejs and any other full-stack projects.
 
 My Custom Blog made with Nextjs! 
-http://petch.blog
+https://petch.blog
 
 My Post It App!
 https://post-it-app-by-me.herokuapp.com/
