@@ -1,5 +1,5 @@
-👋 Hi, I’m Kiart Tantasi. You can also call me Petch (เพชร) or Keith.
-👀🌱💞️ I’m currently learning and looking to collaborate on any React, Nodejs and any other full-stack projects.
+👋 Hi, I’m Kiart Tantasi.
+👀🌱💞️ I’m currently learning and looking to collaborate on any React, Nextjs, Nodejs and any other full-stack projects.
 
 My Custom Blog made with Nextjs! 
 https://petch.blog
