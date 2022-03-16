@@ -1,11 +1,16 @@
-👋 Hi, I’m Kiart Tantasi.
-👀🌱💞️ I’m currently learning and looking to collaborate on any React, Nextjs, Nodejs and any other full-stack projects.
+👋 Hi, I’m Kiart Tantasi.  
+👀🌱💞️ I’m currently learning and looking to collaborate on any React, Nextjs, Nodejs and any other full-stack projects.  
+  
+  
+My Custom Blog made with Nextjs: https://petch.blog  
+source code(client + server): https://github.com/kiart-tantasi/Nextjs-Blog-with-TypeScript-Marked-JWT-MongoDB  
+  
+  
+My Post It App: https://post-it-app-by-me.herokuapp.com/  
+source code(client): https://github.com/kiart-tantasi/Post-It-App-Simple-MERN-App-client  
+source code(server):  https://github.com/kiart-tantasi/Post-It-App-Simple-MERN-App-server  
+  
+  
+Plan Your Workout Automatically: https://kiart-tantasi.github.io/Workout-Planner-html-css-js-DOM-Vanilla-JavaScript/  
+source code: https://github.com/kiart-tantasi/Workout-Planner-html-css-js-DOM-Vanilla-JavaScript  
 
-My Custom Blog made with Nextjs! 
-https://petch.blog
-
-My Post It App!
-https://post-it-app-by-me.herokuapp.com/
-
-Plan Your Workout Automatically!
-https://kiart-tantasi.github.io/Workout-Planner-html-css-js-DOM-Vanilla-JavaScript/
