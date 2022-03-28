@@ -2,7 +2,7 @@
 👀🌱💞️ I’m currently learning and looking to collaborate on any React, Nextjs, Nodejs and any other full-stack projects.  
   
   
-My Custom Blog made with Nextjs: https://petch.blog  
+My Nextjs Blog: https://petch.blog  
 source code(client + server): https://github.com/kiart-tantasi/Nextjs-Blog-with-TypeScript-Marked-JWT-MongoDB  
   
   
