@@ -15,3 +15,13 @@ My Post It App: https://post-it-app-by-me.herokuapp.com/
 Plan Your Workout Automatically: https://kiart-tantasi.github.io/Workout-Planner-html-css-js-DOM-Vanilla-JavaScript/  
 - source code: https://github.com/kiart-tantasi/Workout-Planner-html-css-js-DOM-Vanilla-JavaScript  
 
+Learn Java, Spring and Spring Boot, Jackson with me through my codes  
+- Java: https://github.com/kiart-tantasi/Learning-Java-and-Java-OOP  
+- Spring Dependency Injection: https://github.com/kiart-tantasi/Learning-Spring-Dependency-Injection  
+- Spring Boot: https://github.com/kiart-tantasi/Learning-Spring-Boot  
+- Jackson Annotations: https://github.com/kiart-tantasi/Learning-Spring-Boot-Jackson-Annotations  
+
+
+
+
+
