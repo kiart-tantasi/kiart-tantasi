@@ -1,6 +1,4 @@
-👋 Hi, I’m Kiart Tantasi.  
-👀🌱💞️ I’m currently learning and looking to collaborate on any React, Nextjs, Nodejs and any other full-stack projects.  
-  
+MY PERSONAL PROJECTS  
   
 My Nextjs Blog: https://petch.blog  
 - source code (client): https://github.com/kiart-tantasi/Nextjs-Blog-with-TypeScript-Marked-JWT-MongoDB
@@ -14,14 +12,3 @@ My Post It App: https://post-it-app-by-me.herokuapp.com/
   
 Plan Your Workout Automatically: https://kiart-tantasi.github.io/Workout-Planner-html-css-js-DOM-Vanilla-JavaScript/  
 - source code: https://github.com/kiart-tantasi/Workout-Planner-html-css-js-DOM-Vanilla-JavaScript  
-
-Learn Java, Spring and Spring Boot, Jackson with me through my codes  
-- Java: https://github.com/kiart-tantasi/Learning-Java-and-Java-OOP  
-- Spring Dependency Injection: https://github.com/kiart-tantasi/Learning-Spring-Dependency-Injection  
-- Spring Boot: https://github.com/kiart-tantasi/Learning-Spring-Boot  
-- Jackson Annotations: https://github.com/kiart-tantasi/Learning-Spring-Boot-Jackson-Annotations  
-
-
-
-
-
