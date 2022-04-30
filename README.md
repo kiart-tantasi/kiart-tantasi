@@ -6,8 +6,8 @@ My Nextjs Blog: https://petch.blog
   
   
 My Post It App: https://post-it-app-by-me.herokuapp.com/  
-- source code (client): https://github.com/kiart-tantasi/Post-It-App-Simple-MERN-App-client  
-- source code (server):  https://github.com/kiart-tantasi/Post-It-App-Simple-MERN-App-server  
+- source code (client): https://github.com/kiart-tantasi/Post-It-App-client  
+- source code (server):  https://github.com/kiart-tantasi/Post-It-App-server  
   
   
 Plan Your Workout Automatically: https://kiart-tantasi.github.io/Workout-Planner-html-css-js-DOM-Vanilla-JavaScript/  
