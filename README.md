@@ -2,7 +2,7 @@
 
 Blog with Nextjs at [www.petchblog.net](https://www.petchblog.net)
 
-League of Legends app at [LoL.petchblog.net](https://LoL.petchblog.net)
+League of Legends app at [lol.petchblog.net](https://lol.petchblog.net)
 
 Note app with Nodejs & React at [postitapp.petchblog.net](https://postitapp.petchblog.net)
 
