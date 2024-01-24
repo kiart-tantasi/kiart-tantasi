@@ -12,7 +12,7 @@ Note app with Nodejs & React at [postitapp.petchblog.net](https://postitapp.petc
 
 [Blog with Nextjs](https://github.com/kiart-tantasi/nextjs-blog-typescript-mongodb)
 
-[LoL app with Spring & React](https://github.com/kiart-tantasi/league-of-legends-app)
+[League of Legends app with Spring & React](https://github.com/kiart-tantasi/league-of-legends-app)
 
 [Note app with Nodejs & React](https://github.com/kiart-tantasi/note-app-nodejs-react)
 
