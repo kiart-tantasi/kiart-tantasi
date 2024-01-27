@@ -1,6 +1,6 @@
 # Websites
 
-Blog at [www.petchblog.net](https://www.petchblog.net)
+Personal blog at [www.petchblog.net](https://www.petchblog.net)
 
 League of Legends app at [lol.petchblog.net](https://lol.petchblog.net)
 
