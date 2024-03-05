@@ -28,14 +28,6 @@ Note app at [postitapp.petchblog.net](https://postitapp.petchblog.net)
 
 [Dependency Injection on Spring Framework](https://github.com/kiart-tantasi/spring-dependency-injection)
 
-## Others
-
-[Nodejs Web Server Without Any Frameworks (4,700+ reaches in Facebook)](https://github.com/kiart-tantasi/nodejs-web-server-without-web-frameworks)
-
-[AWS S3 Presigned-URL on Nodejs and MongoDB](https://github.com/kiart-tantasi/aws-s3-presigned-url-nodejs-mongodb)
-
-[Nodejs Authentication with PassportJs](https://github.com/kiart-tantasi/login-passportjs-local-and-google-oauth-strategies)
-
 # LeetCode
 
 [My LeetCode Profile](https://leetcode.com/kiart-tantasi/)
