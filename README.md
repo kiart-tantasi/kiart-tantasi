@@ -20,6 +20,8 @@ Note app at [postitapp.petchblog.net](https://postitapp.petchblog.net)
 
 [Spring Boot JDBC App and Stored Procedures](https://github.com/kiart-tantasi/spring-boot-jdbc)
 
+[Spring Boot with GrowthBook](https://github.com/kiart-tantasi/spring-boot-growthbook)
+
 [Spring Boot JWT Authentication App](https://github.com/kiart-tantasi/spring-boot-security-jwt)
 
 [Spring Boot MongoDB App](https://github.com/kiart-tantasi/spring-boot-mongodb)
