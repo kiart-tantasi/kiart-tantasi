@@ -6,7 +6,7 @@ League of Legends app at [lol.petchblog.net](https://lol.petchblog.net)
 
 Note app at [postitapp.petchblog.net](https://postitapp.petchblog.net)
 
-# Personal Projects (Repositories)
+# Personal Projects
 
 ## Full-stack
 
