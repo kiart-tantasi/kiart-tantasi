@@ -14,7 +14,7 @@ Note app at [postitapp.petchblog.net](https://postitapp.petchblog.net)
 
 [Blog with Nextjs and MongoDB](https://github.com/kiart-tantasi/nextjs-blog-typescript-mongodb)
 
-[Note app with Nodejs & React](https://github.com/kiart-tantasi/note-app-nodejs-react)
+[Note app with Nodejs and React](https://github.com/kiart-tantasi/note-app-nodejs-react)
 
 ## Spring
 
