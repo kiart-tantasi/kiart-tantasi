@@ -16,6 +16,10 @@ Note app at [postitapp.petchblog.net](https://postitapp.petchblog.net)
 
 [Note app with Nodejs and React](https://github.com/kiart-tantasi/note-app-nodejs-react)
 
+## Go
+
+[CRM platform](https://github.com/kiart-tantasi/crm-go)
+
 ## Spring
 
 [Spring Boot JDBC App and Stored Procedures](https://github.com/kiart-tantasi/spring-boot-jdbc)
