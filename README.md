@@ -18,7 +18,13 @@ Note app at [postitapp.petchblog.net](https://postitapp.petchblog.net)
 
 ## Go
 
-[CRM platform](https://github.com/kiart-tantasi/crm-go)
+[CRM Platform](https://github.com/kiart-tantasi/crm-go)
+
+[League of Legends App API](https://github.com/kiart-tantasi/league-of-legends-app/tree/main/goapi)
+
+[Email Sender](https://github.com/kiart-tantasi/email-sender-go)
+
+[Email Address Generator](https://github.com/kiart-tantasi/emailaddress-generator-go)
 
 ## Spring
 
